@@ -1,0 +1,7 @@
+{
+"name": "Rahul",
+    "age": 21,
+    "course": "computer science",
+    "college": "ABC College",
+    "skills": ["Python", "HTML", "CSS"]
+}
